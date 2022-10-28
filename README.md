@@ -1,5 +1,5 @@
-# Rokomari
-Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms. You can use multiple programming languages like Java, C#, Python, etc to create Selenium Test Scripts.Automation Step:
+Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms. You can use multiple programming languages like Java, C#, Python, etc to create Selenium Test Scripts.
+Automation Step:
 Sign Up using Google
 Select লেখক from the menu
 Select হুমায়ুন আহমেদ
