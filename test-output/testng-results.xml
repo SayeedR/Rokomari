@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="13" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-28T22:32:13 BDT" name="Suite" finished-at="2022-10-28T22:33:53 BDT" duration-ms="100095">
+    <groups>
+    </groups>
+    <test started-at="2022-10-28T22:32:13 BDT" name="Test" finished-at="2022-10-28T22:33:53 BDT" duration-ms="100095">
+      <class name="tests.ShippingInformationTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.ShippingInformationTest@1a4927d6]" started-at="2022-10-28T22:33:26 BDT" name="startUrl" finished-at="2022-10-28T22:33:26 BDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="shippingInformation()[pri:0, instance:tests.ShippingInformationTest@1a4927d6]" started-at="2022-10-28T22:33:26 BDT" name="shippingInformation" description="Give shipping Information" finished-at="2022-10-28T22:33:53 BDT" duration-ms="26626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shippingInformation -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.ShippingInformationTest@1a4927d6]" started-at="2022-10-28T22:33:53 BDT" name="afterClass" finished-at="2022-10-28T22:33:53 BDT" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.ShippingInformationTest -->
+      <class name="tests.InsideRokomariTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:32:49 BDT" name="startUrl" finished-at="2022-10-28T22:32:49 BDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="selectAuthorTest()[pri:0, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:32:49 BDT" name="selectAuthorTest" description="Select লেখক from the menu" finished-at="2022-10-28T22:32:53 BDT" duration-ms="3318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAuthorTest -->
+        <test-method signature="selectHimuTest()[pri:1, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:32:53 BDT" name="selectHimuTest" description="Select হুমায়ুন আহমেদ" finished-at="2022-10-28T22:32:57 BDT" duration-ms="4722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHimuTest -->
+        <test-method signature="FilterCategoriesTest()[pri:2, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:32:57 BDT" name="FilterCategoriesTest" description="Filter  Categories like সমকালীন উপন্যাস, রচনা সংকলন ও সমগ্র" finished-at="2022-10-28T22:33:02 BDT" duration-ms="4462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterCategoriesTest -->
+        <test-method signature="scrollDownAndNextPageTest()[pri:3, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:33:02 BDT" name="scrollDownAndNextPageTest" description=" Scroll Down and go to Next Page" finished-at="2022-10-28T22:33:09 BDT" duration-ms="7352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownAndNextPageTest -->
+        <test-method signature="AddBookTest()[pri:4, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:33:09 BDT" name="AddBookTest" description=" Add to the cart any book" finished-at="2022-10-28T22:33:13 BDT" duration-ms="3969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBookTest -->
+        <test-method signature="ClickCartIconTest()[pri:5, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:33:13 BDT" name="ClickCartIconTest" description="Click Cart Icon" finished-at="2022-10-28T22:33:18 BDT" duration-ms="4877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCartIconTest -->
+        <test-method signature="goToShippingPageTest()[pri:6, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:33:18 BDT" name="goToShippingPageTest" description="Go to the Shipping page" finished-at="2022-10-28T22:33:26 BDT" duration-ms="8151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToShippingPageTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.InsideRokomariTest@491b9b8]" started-at="2022-10-28T22:33:26 BDT" name="afterClass" finished-at="2022-10-28T22:33:26 BDT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.InsideRokomariTest -->
+      <class name="tests.SignInTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.SignInTest@69c81773]" started-at="2022-10-28T22:32:09 BDT" name="start" finished-at="2022-10-28T22:32:13 BDT" duration-ms="3815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.SignInTest@69c81773]" started-at="2022-10-28T22:32:13 BDT" name="startUrl" finished-at="2022-10-28T22:32:19 BDT" duration-ms="6393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="rokomariTest()[pri:1, instance:tests.SignInTest@69c81773]" started-at="2022-10-28T22:32:19 BDT" name="rokomariTest" description=" Sign Up using Google" finished-at="2022-10-28T22:32:49 BDT" duration-ms="29548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rokomariTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.SignInTest@69c81773]" started-at="2022-10-28T22:32:49 BDT" name="afterClass" finished-at="2022-10-28T22:32:49 BDT" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.SignInTest@69c81773]" started-at="2022-10-28T22:33:53 BDT" name="close" finished-at="2022-10-28T22:33:54 BDT" duration-ms="1183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.SignInTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
